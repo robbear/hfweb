@@ -1,0 +1,21 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  margin: 2em;
+  min-height: 100%;
+}
+
+div {
+  border: groove;
+  padding: 0.5em;
+}
+
+li {
+  display: inline;
+  padding: 1em;
+}
+
+#logo {
+  width: 113px;
+  height: 27px;
+}
