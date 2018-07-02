@@ -10,7 +10,7 @@ div {
   padding: 0.5em;
 }
 
-li {
+.nav li {
   display: inline;
   padding: 1em;
 }
@@ -29,4 +29,9 @@ li {
   margin-bottom: 0em;
   font-size: 0.75em;
   font-style: italic;
+}
+
+.bioimage {
+  width: 200px;
+  height: 200px;
 }
